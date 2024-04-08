@@ -39,7 +39,7 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #ff4c68;
+  background-color: blueviolet;
   color: #fff;
 }
 
@@ -77,7 +77,7 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #ff4c68;
+  background-color: blueviolet;
   color: #fff;
   text-align: left;
 }
